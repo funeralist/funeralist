@@ -1,15 +1,1 @@
-<div align="center">
-  <img height="200" src="https://i.giphy.com/l0ExdMHUDKteztyfe.webp"  />
-</div>
-
-###
-
-<h6 align="center">+</h6>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlzYW44dDFzN2h1cHBrdGR5YWxsMm9jenlwNG1vYmJpcmthOTJ0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif"  />
-</div>
-
-###
+Once upon a time, cat named Taken, famed for smoking out bugs, faced Purechillium - a well-known aficionado of premium marijuana. With a cigarette dangling, Taken dueled Pure in a fierce Last Word 1v1. He abused the final xzim matrex, wiped out The Purechill, and restored order. MnK block cheered, but Taken just purred and walked away.
