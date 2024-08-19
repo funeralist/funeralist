@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  <img height="200" src="https://i.giphy.com/l0ExdMHUDKteztyfe.webp"  />
+</div>
 
-<!--
-**funeralist/funeralist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h6 align="center">+</h6>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlzYW44dDFzN2h1cHBrdGR5YWxsMm9jenlwNG1vYmJpcmthOTJ0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif"  />
+</div>
+
+###
